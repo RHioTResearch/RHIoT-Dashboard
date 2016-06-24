@@ -7,7 +7,7 @@ window.onload = function () {
 var RHIoTTagServicesMAC = "DN2016-GW0";
 
 // Ip Address of the MQTT Broker (WebSockets)
-var MQTTBrokerIP = "broker-sandbox.everyware-cloud.com";
+var MQTTBrokerIP = "broker-Red-Hat.everyware-cloud.com";
 
 // Kura RHIoTTagService APP_ID
 var AppId = "org.jboss.rhiot.services.RHIoTTagScanner";
